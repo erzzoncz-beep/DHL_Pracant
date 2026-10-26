@@ -1,8 +1,8 @@
 {
-  "versionCode": 9,
-  "versionName": "1.8",
-  "apkUrl": "https://raw.githubusercontent.com/erzzoncz-beep/DHL_Pracant/main/DHL_Pracant_v1_8.apk",
-  "sha256": "bddb50845fddeb17c5edc9b8537b1491f9f317c5aef6f13d4dfaee17187dca42",
-  "notesCs": "První verze s kontrolou aktualizací. Aktualizace se ověřují před instalací.",
-  "notesEn": "First version with update checks. Updates are verified before installation."
+  "versionCode": 10,
+  "versionName": "1.9",
+  "apkUrl": "https://raw.githubusercontent.com/erzzoncz-beep/DHL_Pracant/main/DHL_Pracant_v1_9.apk",
+  "sha256": "d1ea6605753dd31294db0236aa4e4c7f036689334a8d35edad2ab9c6e56200bc",
+  "notesCs": "Nastavení skenerů nyní obsahuje pouze 14 konfiguračních kódů pro retrak.",
+  "notesEn": "Scanner settings now show only the 14 reach-truck scanner configuration codes."
 }
