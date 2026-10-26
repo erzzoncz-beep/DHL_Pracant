@@ -1,0 +1,8 @@
+{
+  "versionCode": 9,
+  "versionName": "1.8",
+  "apkUrl": "https://raw.githubusercontent.com/erzzoncz-beep/DHL_Pracant/main/DHL_Pracant_v1_8.apk",
+  "sha256": "bddb50845fddeb17c5edc9b8537b1491f9f317c5aef6f13d4dfaee17187dca42",
+  "notesCs": "První verze s kontrolou aktualizací. Aktualizace se ověřují před instalací.",
+  "notesEn": "First version with update checks. Updates are verified before installation."
+}
