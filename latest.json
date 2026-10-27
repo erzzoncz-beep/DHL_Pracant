@@ -1,8 +1,8 @@
 {
-  "versionCode": 12,
-  "versionName": "1.11",
-  "apkUrl": "https://raw.githubusercontent.com/erzzoncz-beep/DHL_Pracant/main/DHL_Pracant_v1_11.apk",
-  "sha256": "70c08ad70b933f7cfd5cc01ffa60dc42b60c692ca557474a51ebb4ecd79447a0",
-  "notesCs": "Úpravy nakládky Belgie, kalkulačka Scrap/Unpack a přehlednější QR seznamy.",
-  "notesEn": "Belgium loading updates, Scrap/Unpack calculator and clearer QR lists."
+  "versionCode": 13,
+  "versionName": "1.12",
+  "apkUrl": "https://raw.githubusercontent.com/erzzoncz-beep/DHL_Pracant/main/DHL_Pracant_v1_12.apk",
+  "sha256": "2eca97d65fdbc13e94c4c00a5cf2888ee14a0445140766c28322103f88f5ea8e",
+  "notesCs": "Oprava: kódy AP-001-OUT-GB až AP-004-OUT-GB jsou pouze v pickování Anglie, ne u nakládky.",
+  "notesEn": "Fix: AP-001-OUT-GB through AP-004-OUT-GB are only under England picking, not loading."
 }
