@@ -1,8 +1,8 @@
 {
-  "versionCode": 11,
-  "versionName": "1.10",
-  "apkUrl": "https://raw.githubusercontent.com/erzzoncz-beep/DHL_Pracant/main/DHL_Pracant_v1_10.apk",
-  "sha256": "3bffae4beb4ff868b27be3064ae322634120ba0c5e7086c0d67654035cef1639",
-  "notesCs": "U QR kódů zůstávají v seznamu jen jejich názvy. Přepínání mezi kódy teď doprovází pohyblivé šipky.",
-  "notesEn": "QR lists now show only code names. Animated arrows guide swiping between codes."
+  "versionCode": 12,
+  "versionName": "1.11",
+  "apkUrl": "https://raw.githubusercontent.com/erzzoncz-beep/DHL_Pracant/main/DHL_Pracant_v1_11.apk",
+  "sha256": "70c08ad70b933f7cfd5cc01ffa60dc42b60c692ca557474a51ebb4ecd79447a0",
+  "notesCs": "Úpravy nakládky Belgie, kalkulačka Scrap/Unpack a přehlednější QR seznamy.",
+  "notesEn": "Belgium loading updates, Scrap/Unpack calculator and clearer QR lists."
 }
