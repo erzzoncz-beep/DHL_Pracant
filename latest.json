@@ -1,8 +1,8 @@
 {
-  "versionCode": 10,
-  "versionName": "1.9",
-  "apkUrl": "https://raw.githubusercontent.com/erzzoncz-beep/DHL_Pracant/main/DHL_Pracant_v1_9.apk",
-  "sha256": "d1ea6605753dd31294db0236aa4e4c7f036689334a8d35edad2ab9c6e56200bc",
-  "notesCs": "Nastavení skenerů nyní obsahuje pouze 14 konfiguračních kódů pro retrak.",
-  "notesEn": "Scanner settings now show only the 14 reach-truck scanner configuration codes."
+  "versionCode": 11,
+  "versionName": "1.10",
+  "apkUrl": "https://raw.githubusercontent.com/erzzoncz-beep/DHL_Pracant/main/DHL_Pracant_v1_10.apk",
+  "sha256": "3bffae4beb4ff868b27be3064ae322634120ba0c5e7086c0d67654035cef1639",
+  "notesCs": "U QR kódů zůstávají v seznamu jen jejich názvy. Přepínání mezi kódy teď doprovází pohyblivé šipky.",
+  "notesEn": "QR lists now show only code names. Animated arrows guide swiping between codes."
 }
