@@ -1,8 +1,8 @@
 {
-  "versionCode": 21,
-  "versionName": "1.20",
-  "apkUrl": "https://raw.githubusercontent.com/erzzoncz-beep/DHL_Pracant/main/DHL_Pracant_v1_20.apk",
-  "sha256": "6ee38da04089c5aa95e6a10351b0329c459691487efb4cbfa6756e132b3467b7",
-  "notesCs": "Upravené zobrazení produktivity: datum v historii, editace času začátku a konce, jednotka pll/item.",
-  "notesEn": "Updated productivity display: history date, editable start and stop times, pll/item unit."
+  "versionCode": 22,
+  "versionName": "1.21",
+  "apkUrl": "https://raw.githubusercontent.com/erzzoncz-beep/DHL_Pracant/main/DHL_Pracant_v1_21.apk",
+  "sha256": "affabae320f9294d008a5dfa07cc8765330d2d441ccdbd06dfdd41bd48f05f8",
+  "notesCs": "Aktuální verze v patičce. Produktivita: START/STOP, zadání počtu po zastavení, uložení do historie, editace času a procentní i celkový průměr za vybrané období.",
+  "notesEn": "Current installed version in footer. Productivity: START/STOP, enter quantity after stopping, save to history, edit times, and view activity percentages and overall average for the selected period."
 }
