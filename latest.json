@@ -1,8 +1,8 @@
 {
-  "versionCode": 13,
-  "versionName": "1.12",
-  "apkUrl": "https://raw.githubusercontent.com/erzzoncz-beep/DHL_Pracant/main/DHL_Pracant_v1_12.apk",
-  "sha256": "2eca97d65fdbc13e94c4c00a5cf2888ee14a0445140766c28322103f88f5ea8e",
-  "notesCs": "Oprava: kódy AP-001-OUT-GB až AP-004-OUT-GB jsou pouze v pickování Anglie, ne u nakládky.",
-  "notesEn": "Fix: AP-001-OUT-GB through AP-004-OUT-GB are only under England picking, not loading."
+  "versionCode": 14,
+  "versionName": "1.13",
+  "apkUrl": "https://raw.githubusercontent.com/erzzoncz-beep/DHL_Pracant/main/DHL_Pracant_v1_13.apk",
+  "sha256": "0ce227f4de6597778ca7d1d413514fab85977f40e37d242664b482521eafa329",
+  "notesCs": "Nápověda pro přejetí mezi QR kódy je přesunuta pod QR obrázek, nad spodní panel.",
+  "notesEn": "The swipe hint for switching QR codes is now below the QR image, above the bottom panel."
 }
