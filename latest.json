@@ -1,8 +1,8 @@
 {
-  "versionCode": 20,
-  "versionName": "1.19",
-  "apkUrl": "https://raw.githubusercontent.com/erzzoncz-beep/DHL_Pracant/main/DHL_Pracant_v1_19.apk",
-  "sha256": "18f8b21205bf3e993b2bfdfc4327a40353a39ae3d6a488042df52b7e520a6d1c",
-  "notesCs": "Opravený instalační balíček. Obsahuje normy a produktivitu.",
-  "notesEn": "Corrected installation package. Includes standards and productivity."
+  "versionCode": 21,
+  "versionName": "1.20",
+  "apkUrl": "https://raw.githubusercontent.com/erzzoncz-beep/DHL_Pracant/main/DHL_Pracant_v1_20.apk",
+  "sha256": "6ee38da04089c5aa95e6a10351b0329c459691487efb4cbfa6756e132b3467b7",
+  "notesCs": "Upravené zobrazení produktivity: datum v historii, editace času začátku a konce, jednotka pll/item.",
+  "notesEn": "Updated productivity display: history date, editable start and stop times, pll/item unit."
 }
