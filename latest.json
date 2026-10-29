@@ -1,8 +1,8 @@
 {
-  "versionCode": 14,
-  "versionName": "1.13",
-  "apkUrl": "https://raw.githubusercontent.com/erzzoncz-beep/DHL_Pracant/main/DHL_Pracant_v1_13.apk",
-  "sha256": "0ce227f4de6597778ca7d1d413514fab85977f40e37d242664b482521eafa329",
-  "notesCs": "Nápověda pro přejetí mezi QR kódy je přesunuta pod QR obrázek, nad spodní panel.",
-  "notesEn": "The swipe hint for switching QR codes is now below the QR image, above the bottom panel."
+  "versionCode": 15,
+  "versionName": "1.14",
+  "apkUrl": "https://raw.githubusercontent.com/erzzoncz-beep/DHL_Pracant/main/DHL_Pracant_v1_14.apk",
+  "sha256": "891969d4ef8860cd37cdf7b85936198f55b3649f2c416554511b905e83d88b46",
+  "notesCs": "Odstraněn ukazatel přepínání QR obrázků; přejetí prstem zůstává.",
+  "notesEn": "Removed the QR image swipe indicator; touch swiping still works."
 }
