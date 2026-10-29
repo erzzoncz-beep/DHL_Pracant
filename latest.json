@@ -1,8 +1,8 @@
 {
-  "versionCode": 19,
-  "versionName": "1.18",
-  "apkUrl": "https://raw.githubusercontent.com/erzzoncz-beep/DHL_Pracant/main/DHL_Pracant_v1_18.apk",
-  "sha256": "440b6c0dabfc66f28727ce568910741ea2a160ab456c985f03c3b7394337205f",
-  "notesCs": "Normy a produktivita: měření od startu do stopu, procentní vyhodnocení, upravitelná historie a průměr za zvolené období. Opraven formát instalace APK.",
-  "notesEn": "Standards and productivity: start/stop tracking, percentage rating, editable history, and selected-period average. APK installation format fixed."
+  "versionCode": 20,
+  "versionName": "1.19",
+  "apkUrl": "https://raw.githubusercontent.com/erzzoncz-beep/DHL_Pracant/main/DHL_Pracant_v1_19.apk",
+  "sha256": "18f8b21205bf3e993b2bfdfc4327a40353a39ae3d6a488042df52b7e520a6d1c",
+  "notesCs": "Opravený instalační balíček. Obsahuje normy a produktivitu.",
+  "notesEn": "Corrected installation package. Includes standards and productivity."
 }
