@@ -1,8 +1,8 @@
 {
-  "versionCode": 16,
-  "versionName": "1.15",
-  "apkUrl": "https://raw.githubusercontent.com/erzzoncz-beep/DHL_Pracant/main/DHL_Pracant_v1_15.apk",
-  "sha256": "53d569576cfda7e27ae506849f5f73b762f06bbaf93074b2ec67d42789695075",
-  "notesCs": "Název právě zobrazeného QR kódu je vidět pod obrázkem; přepínání přejetím prstem zůstává.",
-  "notesEn": "The name of the current QR code is shown below the image; swipe navigation remains."
+  "versionCode": 17,
+  "versionName": "1.16",
+  "apkUrl": "https://raw.githubusercontent.com/erzzoncz-beep/DHL_Pracant/main/DHL_Pracant_v1_16.apk",
+  "sha256": "71938325acf9a1ba4412907f4e5d66b2ec98869efa193e1f6ad2a57d278c1f2c",
+  "notesCs": "Ikona aktualizací ve spodním panelu ukáže dostupnou verzi, aktuální stav nebo problém s připojením.",
+  "notesEn": "The bottom-bar update icon shows an available version, up-to-date status, or a connection issue."
 }
