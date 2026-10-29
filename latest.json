@@ -1,8 +1,8 @@
 {
-  "versionCode": 17,
-  "versionName": "1.16",
-  "apkUrl": "https://raw.githubusercontent.com/erzzoncz-beep/DHL_Pracant/main/DHL_Pracant_v1_16.apk",
-  "sha256": "71938325acf9a1ba4412907f4e5d66b2ec98869efa193e1f6ad2a57d278c1f2c",
-  "notesCs": "Ikona aktualizací ve spodním panelu ukáže dostupnou verzi, aktuální stav nebo problém s připojením.",
-  "notesEn": "The bottom-bar update icon shows an available version, up-to-date status, or a connection issue."
+  "versionCode": 18,
+  "versionName": "1.17",
+  "apkUrl": "https://raw.githubusercontent.com/erzzoncz-beep/DHL_Pracant/main/DHL_Pracant_v1_17.apk",
+  "sha256": "637ff06cf1cdfb1d81e5230c81dd1493c355c3c63bfdf624cf0782c70c0d32cb",
+  "notesCs": "Normy a produktivita: měření od startu do stopu, výpočet procent, historie a průměr za zvolené období.",
+  "notesEn": "Standards and productivity: start/stop tracking, percentage calculation, history, and average for a selected period."
 }
