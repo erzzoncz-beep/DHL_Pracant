@@ -1,8 +1,8 @@
 {
-  "versionCode": 23,
-  "versionName": "1.22",
-  "apkUrl": "https://raw.githubusercontent.com/erzzoncz-beep/DHL_Pracant/main/DHL_Pracant_v1_22.apk",
-  "sha256": "48dd105085c6fe3683b6f427e8ade902e80c929c6b3f54ed06375188c5b1bca3",
-  "notesCs": "Oprava produktivity: časomíra START/STOP, přesné ukládání času, automatický návrat k zadání počtu a oprava kontroly aktualizací se záložními zdroji.",
-  "notesEn": "Productivity fix: START/STOP timer, precise time recording, quantity entry after stopping, and resilient update checks with fallback sources."
+  "versionCode": 24,
+  "versionName": "1.23",
+  "apkUrl": "https://raw.githubusercontent.com/erzzoncz-beep/DHL_Pracant/main/DHL_Pracant_v1_23.apk",
+  "sha256": "a9038d7fdc144ddf09dd7d466891b4dce96eb906965c12686949bf39535d33e7",
+  "notesCs": "Historie produktivity nyní upraví datum, začátek, konec a počet přímo ve formuláři aplikace. Světlý i tmavý režim.",
+  "notesEn": "Productivity history can now be edited inline: date, start, stop, and quantity. Supports light and dark themes."
 }
