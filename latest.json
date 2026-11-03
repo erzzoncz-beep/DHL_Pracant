@@ -1,8 +1,8 @@
 {
-  "versionCode": 24,
-  "versionName": "1.23",
-  "apkUrl": "https://raw.githubusercontent.com/erzzoncz-beep/DHL_Pracant/main/DHL_Pracant_v1_23.apk",
-  "sha256": "a9038d7fdc144ddf09dd7d466891b4dce96eb906965c12686949bf39535d33e7",
-  "notesCs": "Historie produktivity nyní upraví datum, začátek, konec a počet přímo ve formuláři aplikace. Světlý i tmavý režim.",
-  "notesEn": "Productivity history can now be edited inline: date, start, stop, and quantity. Supports light and dark themes."
+  "versionCode": 25,
+  "versionName": "1.24",
+  "apkUrl": "https://raw.githubusercontent.com/erzzoncz-beep/DHL_Pracant/main/DHL_Pracant_v1_24.apk",
+  "sha256": "5b1d7a48c97cd791a5c4672a88dc0230f0f03ba2adddac732ba17aaeaee21d4c",
+  "notesCs": "V nastavení skenerů zůstává pouze retrakový skener.",
+  "notesEn": "Scanner settings now include only the reach truck scanner."
 }
