@@ -1,8 +1,8 @@
 {
-  "versionCode": 35,
-  "versionName": "1.34",
-  "apkUrl": "https://raw.githubusercontent.com/erzzoncz-beep/DHL_Pracant/main/DHL_Pracant_v1_34.apk",
-  "sha256": "142aedda7d1a3f421beee8f824ea919bc6e80626e53df109a4a41629c5fe6129",
-  "notesCs": "Opravena animace paletového vozíku – zůstává viditelná i při zapnutém omezení animací v telefonu.",
-  "notesEn": "Fixed the pallet truck animation so it remains visible when the phone's reduced-motion setting is enabled."
+  "versionCode": 36,
+  "versionName": "1.35",
+  "apkUrl": "https://raw.githubusercontent.com/erzzoncz-beep/DHL_Pracant/main/DHL_Pracant_v1_35.apk",
+  "sha256": "a97dc9ab07c3a38c164b662f559d98f93b067155ff615d22ee3d119c0fcab880",
+  "notesCs": "Po odjezdu vozíku zůstane sebraná paleta skrytá. Nová paleta se ukáže na jednom místě, vozík přijede právě k ní a odveze ji mimo obraz.",
+  "notesEn": "The picked pallet stays hidden after the truck leaves. A new pallet appears in one place, and the truck drives to that exact pallet and carries it away."
 }
