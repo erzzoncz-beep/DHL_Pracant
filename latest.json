@@ -1,8 +1,8 @@
 {
-  "versionCode": 29,
-  "versionName": "1.28",
-  "apkUrl": "https://raw.githubusercontent.com/erzzoncz-beep/DHL_Pracant/main/DHL_Pracant_v1_28_rollback.apk",
-  "sha256": "0558eb764cbf3833414dcdcc42fa7d9e1656a2b2d2bf50a268e055feabd37f6b",
+  "versionCode": 31,
+  "versionName": "1.30",
+  "apkUrl": "https://raw.githubusercontent.com/erzzoncz-beep/DHL_Pracant/main/DHL_Pracant_v1_30_rollback.apk",
+  "sha256": "584b8b6d0745a7a4b34472f6d7ac78662b1d9823429e36c4685242e1b8a186e3",
   "notesCs": "Návratová verze bez testovací animace ve spodním panelu.",
   "notesEn": "Rollback build without the experimental footer animation."
 }
