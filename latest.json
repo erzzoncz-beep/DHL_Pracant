@@ -1,8 +1,8 @@
 {
-  "versionCode": 26,
-  "versionName": "1.25",
-  "apkUrl": "https://raw.githubusercontent.com/erzzoncz-beep/DHL_Pracant/main/DHL_Pracant_v1_25.apk",
-  "sha256": "de66657d4c237dfee57e29afa8b4d46c4cac9682be3e7d8e5ce416859f572161",
-  "notesCs": "Nastavení skenerů obsahuje pouze retrak. Instalaci aktualizace přebírá systémový instalátor Androidu.",
-  "notesEn": "Scanner settings now show only the reach truck. Android's system installer handles updates."
+  "versionCode": 27,
+  "versionName": "1.26",
+  "apkUrl": "https://raw.githubusercontent.com/erzzoncz-beep/DHL_Pracant/main/DHL_Pracant_v1_26.apk",
+  "sha256": "dfa5612ae1afe7525ee57713b937b7f8f74c77dc40a5ffcd7d217c621f3b9ea5",
+  "notesCs": "Nová ikona aplikace s logem DHL.",
+  "notesEn": "New app launcher icon featuring the DHL logo."
 }
