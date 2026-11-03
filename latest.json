@@ -1,8 +1,8 @@
 {
-  "versionCode": 25,
-  "versionName": "1.24",
-  "apkUrl": "https://raw.githubusercontent.com/erzzoncz-beep/DHL_Pracant/main/DHL_Pracant_v1_24_final.apk",
-  "sha256": "5b1d7a48c97cd791a5c4672a88dc0230f0f03ba2addddac732ba17aaeae21d4c",
-  "notesCs": "V nastavení skenerů zůstává pouze retrakový skener.",
-  "notesEn": "Scanner settings now include only the reach truck scanner."
+  "versionCode": 26,
+  "versionName": "1.25",
+  "apkUrl": "https://raw.githubusercontent.com/erzzoncz-beep/DHL_Pracant/main/DHL_Pracant_v1_25.apk",
+  "sha256": "de66657d4c237dfee57e29afa8b4d46c4cac9682be3e7d8e5ce416859f572161",
+  "notesCs": "Nastavení skenerů obsahuje pouze retrak. Instalaci aktualizace přebírá systémový instalátor Androidu.",
+  "notesEn": "Scanner settings now show only the reach truck. Android's system installer handles updates."
 }
