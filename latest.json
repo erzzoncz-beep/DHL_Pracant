@@ -1,8 +1,8 @@
 {
-  "versionCode": 34,
-  "versionName": "1.33",
-  "apkUrl": "https://raw.githubusercontent.com/erzzoncz-beep/DHL_Pracant/main/DHL_Pracant_v1_33.apk",
-  "sha256": "5289a901eb5e1e93127bb98587e5198c8ac2046791521cac844921c39837340f",
-  "notesCs": "Animace paletového vozíku je součástí běžné verze. Opravené zobrazení horní lišty v tmavém i světlém režimu.",
-  "notesEn": "The pallet truck animation is now part of the regular release. Fixed the top system bar in dark and light themes."
+  "versionCode": 35,
+  "versionName": "1.34",
+  "apkUrl": "https://raw.githubusercontent.com/erzzoncz-beep/DHL_Pracant/main/DHL_Pracant_v1_34.apk",
+  "sha256": "142aedda7d1a3f421beee8f824ea919bc6e80626e53df109a4a41629c5fe6129",
+  "notesCs": "Opravena animace paletového vozíku – zůstává viditelná i při zapnutém omezení animací v telefonu.",
+  "notesEn": "Fixed the pallet truck animation so it remains visible when the phone's reduced-motion setting is enabled."
 }
