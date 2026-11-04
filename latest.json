@@ -1,8 +1,8 @@
 {
-  "versionCode": 38,
-  "versionName": "1.37",
-  "apkUrl": "https://raw.githubusercontent.com/erzzoncz-beep/DHL_Pracant/main/DHL_Pracant_v1_37.apk",
-  "sha256": "3ee22220266a2da84f4e99be4a814086e46d69adfed759aaec5789d5875bea46",
-  "notesCs": "Nové hlavní menu ve stylu varianty 5. Zachována animace paleťáku a přidán usměvavý pracovník s 15 krátkými hláškami a 15 gesty.",
-  "notesEn": "New main menu in Variant 5 style. The pallet truck animation is preserved; a smiling worker with 15 short phrases and 15 gestures has been added."
+  "versionCode": 39,
+  "versionName": "1.38",
+  "apkUrl": "https://raw.githubusercontent.com/erzzoncz-beep/DHL_Pracant/main/DHL_Pracant_v1_38.apk",
+  "sha256": "a233db035f8a97c875ee6481153786dd795e99e3e56926d32fa68fe36b4a7edb",
+  "notesCs": "Nové neonové menu ve stylu varianty 4. Pracovníci s reflexní vestou v zelené, oranžové a modré se objevují na různých místech a různou rychlostí. Paleťák zůstává zachován. Všechny kódy nyní zahrnují také 10 805 verifikačních lokací.",
+  "notesEn": "New neon Variant 4 menu. Workers in green, orange and blue reflective vests appear in different positions and at varied speeds. The pallet truck animation remains. All Codes now also includes 10,805 verification locations."
 }
