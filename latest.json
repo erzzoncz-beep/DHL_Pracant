@@ -1,8 +1,8 @@
 {
-  "versionCode": 36,
-  "versionName": "1.35",
-  "apkUrl": "https://raw.githubusercontent.com/erzzoncz-beep/DHL_Pracant/main/DHL_Pracant_v1_35.apk",
-  "sha256": "a97dc9ab07c3a38c164b662f559d98f93b067155ff615d22ee3d119c0fcab880",
-  "notesCs": "Po odjezdu vozíku zůstane sebraná paleta skrytá. Nová paleta se ukáže na jednom místě, vozík přijede právě k ní a odveze ji mimo obraz.",
-  "notesEn": "The picked pallet stays hidden after the truck leaves. A new pallet appears in one place, and the truck drives to that exact pallet and carries it away."
+  "versionCode": 37,
+  "versionName": "1.36",
+  "apkUrl": "https://raw.githubusercontent.com/erzzoncz-beep/DHL_Pracant/main/DHL_Pracant_v1_36.apk",
+  "sha256": "57170bb18c7788f4b8235f51766591579b9c45d70e6b8f4986446708f7bcc96c",
+  "notesCs": "Přidány vyhledatelné verifikační kódy z 10 805 lokací; QR kód se tvoří offline z přesné hodnoty v tabulce. LINKA-VZOR01 je nově také v Pickování → Výroba.",
+  "notesEn": "Searchable verification codes for 10,805 locations; QR codes are generated offline from the exact spreadsheet values. LINKA-VZOR01 is also available under Picking → Production."
 }
