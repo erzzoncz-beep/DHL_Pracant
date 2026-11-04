@@ -1,8 +1,8 @@
 {
-  "versionCode": 37,
-  "versionName": "1.36",
-  "apkUrl": "https://raw.githubusercontent.com/erzzoncz-beep/DHL_Pracant/main/DHL_Pracant_v1_36.apk",
-  "sha256": "57170bb18c7788f4b8235f51766591579b9c45d70e6b8f4986446708f7bcc96c",
-  "notesCs": "Přidány vyhledatelné verifikační kódy z 10 805 lokací; QR kód se tvoří offline z přesné hodnoty v tabulce. LINKA-VZOR01 je nově také v Pickování → Výroba.",
-  "notesEn": "Searchable verification codes for 10,805 locations; QR codes are generated offline from the exact spreadsheet values. LINKA-VZOR01 is also available under Picking → Production."
+  "versionCode": 38,
+  "versionName": "1.37",
+  "apkUrl": "https://raw.githubusercontent.com/erzzoncz-beep/DHL_Pracant/main/DHL_Pracant_v1_37.apk",
+  "sha256": "3ee22220266a2da84f4e99be4a814086e46d69adfed759aaec5789d5875bea46",
+  "notesCs": "Nové hlavní menu ve stylu varianty 5. Zachována animace paleťáku a přidán usměvavý pracovník s 15 krátkými hláškami a 15 gesty.",
+  "notesEn": "New main menu in Variant 5 style. The pallet truck animation is preserved; a smiling worker with 15 short phrases and 15 gestures has been added."
 }
