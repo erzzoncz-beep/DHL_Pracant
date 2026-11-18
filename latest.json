@@ -1,8 +1,8 @@
 {
-  "versionCode": 39,
-  "versionName": "1.38",
-  "apkUrl": "https://raw.githubusercontent.com/erzzoncz-beep/DHL_Pracant/main/DHL_Pracant_v1_38.apk",
-  "sha256": "a233db035f8a97c875ee6481153786dd795e99e3e56926d32fa68fe36b4a7edb",
-  "notesCs": "Nové neonové menu ve stylu varianty 4. Pracovníci s reflexní vestou v zelené, oranžové a modré se objevují na různých místech a různou rychlostí. Paleťák zůstává zachován. Všechny kódy nyní zahrnují také 10 805 verifikačních lokací.",
-  "notesEn": "New neon Variant 4 menu. Workers in green, orange and blue reflective vests appear in different positions and at varied speeds. The pallet truck animation remains. All Codes now also includes 10,805 verification locations."
+  "versionCode": 40,
+  "versionName": "1.39",
+  "apkUrl": "https://raw.githubusercontent.com/erzzoncz-beep/DHL_Pracant/main/DHL_Pracant_v1_39.apk",
+  "sha256": "EBF8A4EAEEA2FAB5FF4F1AC53D35C66CF418E922438D64084478033FA3173BF3",
+  "notesCs": "Nový vzhled podle varianty 4: tmavě modré prostředí se žlutými akcenty a výraznými kartami. Přehlednější verifikační kódy rozdělené do AP01–AP16; QR detail ukazuje lokaci i ověřovací kód a umožňuje přecházet mezi kódy. Upravené ilustrace pracovníků a jedoucí obsluhovaný paletový vozík.",
+  "notesEn": "New Variant 4 look with a deep blue interface, yellow accents and clear cards. Verification codes are grouped AP01–AP16; QR details show the location and verification code and allow swiping between codes. Updated worker illustrations and a moving rider-operated pallet truck."
 }
