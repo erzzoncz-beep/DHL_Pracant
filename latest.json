@@ -2,7 +2,7 @@
   "versionCode": 42,
   "versionName": "1.41",
   "apkUrl": "https://raw.githubusercontent.com/erzzoncz-beep/DHL_Pracant/main/DHL_Pracant_v1_41.apk",
-  "sha256": "344766AD766A8350331659136755B376C19F6260089876C8867691511887FAC3",
+  "sha256": "7233591F374189A6946588BA221F995F7EAD259BCE11B277564B9B8240D6659D",
   "notesCs": "Opravená spodní animace: menší paletový vozík s obsluhou stojící na stupátku a vysokozdvižný vozík s viditelným sedícím řidičem. Vidle správně najedou pod paletu, která se při nabrání lehce zvedne a odjede s vozíkem.",
   "notesEn": "Improved footer animation: smaller pallet truck with an operator standing on the step and forklift with a visible seated driver. Forks align under the pallet; the pallet lifts slightly when picked up and leaves with the vehicle."
 }
