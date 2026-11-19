@@ -1,7 +1,7 @@
 {
   "versionCode": 45,
   "versionName": "1.40",
-  "apkUrl": "https://raw.githubusercontent.com/erzzoncz-beep/DHL_Pracant/main/DHL_Pracant_v1_40.apk",
+  "apkUrl": "https://raw.githubusercontent.com/erzzoncz-beep/DHL_Pracant/main/DHL_Pracant_v1_40_fixed.apk",
   "sha256": "2C758BC7D2A4C905204CA3DF8187C96B74A821C624A580317B282F2176EFE355",
   "notesCs": "Úprava QR náhledu: název aktuálního kódu zůstává viditelný pod horním panelem i při listování. Přebytečné bílé okraje se oříznou se zachováním bezpečného okraje kolem QR. Platí také pro verifikační kódy.",
   "notesEn": "QR preview update: the current code name stays visible below the top bar while browsing. Excess white margins are cropped while preserving a safe quiet zone around each QR code. Also applied to verification codes."
