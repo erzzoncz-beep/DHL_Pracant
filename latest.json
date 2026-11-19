@@ -1,8 +1,8 @@
 {
-  "versionCode": 42,
-  "versionName": "1.41",
-  "apkUrl": "https://raw.githubusercontent.com/erzzoncz-beep/DHL_Pracant/main/DHL_Pracant_v1_41.apk",
-  "sha256": "7233591F374189A6946588BA221F995F7EAD259BCE11B277564B9B8240D6659D",
-  "notesCs": "Opravená spodní animace: menší paletový vozík s obsluhou stojící na stupátku a vysokozdvižný vozík s viditelným sedícím řidičem. Vidle správně najedou pod paletu, která se při nabrání lehce zvedne a odjede s vozíkem.",
-  "notesEn": "Improved footer animation: smaller pallet truck with an operator standing on the step and forklift with a visible seated driver. Forks align under the pallet; the pallet lifts slightly when picked up and leaves with the vehicle."
+  "versionCode": 43,
+  "versionName": "1.42",
+  "apkUrl": "https://raw.githubusercontent.com/erzzoncz-beep/DHL_Pracant/main/DHL_Pracant_v1_42.apk",
+  "sha256": "562915881257933FC83105480DAEB3AC75B437A562111D2E1433DB23B0005FA9",
+  "notesCs": "Vylepšená spodní animace: obsluha paleťáku stojí na plošině a drží ovládací oj; řidič vysokozdvižného vozíku sedí na sedadle, má pokrčené nohy a obě ruce na volantu. Animace má vlastní pevný prostor nad samostatným panelem verze a aktualizací.",
+  "notesEn": "Refined footer animation: the pallet-truck operator stands on the platform and holds the tiller; the forklift driver sits in the seat with bent legs and both hands on the steering wheel. The animation now has a dedicated fixed area above the separate version and update panel."
 }
