@@ -1,8 +1,8 @@
 {
-  "versionCode": 43,
-  "versionName": "1.42",
-  "apkUrl": "https://raw.githubusercontent.com/erzzoncz-beep/DHL_Pracant/main/DHL_Pracant_v1_42.apk",
-  "sha256": "562915881257933FC83105480DAEB3AC75B437A562111D2E1433DB23B0005FA9",
-  "notesCs": "Vylepšená spodní animace: obsluha paleťáku stojí na plošině a drží ovládací oj; řidič vysokozdvižného vozíku sedí na sedadle, má pokrčené nohy a obě ruce na volantu. Animace má vlastní pevný prostor nad samostatným panelem verze a aktualizací.",
-  "notesEn": "Refined footer animation: the pallet-truck operator stands on the platform and holds the tiller; the forklift driver sits in the seat with bent legs and both hands on the steering wheel. The animation now has a dedicated fixed area above the separate version and update panel."
+  "versionCode": 44,
+  "versionName": "1.39",
+  "apkUrl": "https://raw.githubusercontent.com/erzzoncz-beep/DHL_Pracant/main/DHL_Pracant_v1_39_restore.apk",
+  "sha256": "E55DCB51574E1C25A9113F38BA22B722D5EAF6348B738C3224375D2872F088D3",
+  "notesCs": "Obnovené rozhraní, animace vozíku a rozložení spodního panelu podle funkční verze 1.39. Instalace zachová data aplikace.",
+  "notesEn": "Restored the interface, vehicle animation and footer layout from the working version 1.39. The update preserves app data."
 }
