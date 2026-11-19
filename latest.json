@@ -2,7 +2,7 @@
   "versionCode": 41,
   "versionName": "1.40",
   "apkUrl": "https://raw.githubusercontent.com/erzzoncz-beep/DHL_Pracant/main/DHL_Pracant_v1_40.apk",
-  "sha256": "A882F5559EDBDF4D1EDE06067B662CC65779505896A4D8BA23D1D8C9458D8633",
+  "sha256": "885E357BA09197B6736A616F3277E27C5A00311A0767304032FF9989F5332BD5",
   "notesCs": "Vzhled aplikace upraven podle varianty 4 v tmavém i světlém režimu. QR detail nyní zobrazuje název nad původním kódem; verifikační seznam se načítá bez náhledů a rychleji. Hlavní karty nakládky a vykládky mají nové ilustrace. Spodní animace střídá paletový vozík a vysokozdvižný vozík, pracovníci mají čtyři barvy vest a zobrazují se méně často. Přehlednější stav aktualizace ve spodním panelu.",
   "notesEn": "Variant 4 appearance refined for light and dark modes. QR details show the code name above the original QR; verification lists load faster without thumbnails. New loading and unloading illustrations. Footer animation alternates a pallet truck and forklift; workers have four vest colors and appear less often. Clearer update status in the footer."
 }
