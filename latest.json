@@ -1,8 +1,8 @@
 {
-  "versionCode": 46,
-  "versionName": "1.41",
-  "apkUrl": "https://raw.githubusercontent.com/erzzoncz-beep/DHL_Pracant/main/DHL_Pracant_v1_41_vehicle.apk",
-  "sha256": "20898CF6C9D0B6278BFD160964D34F6A64763C3D9073F8312482462BD9E55EEC",
-  "notesCs": "Spodní animace: troják s obsluhou, kargo převážející paletu a občasná scéna zacouvání nákladního auta s otevřenými zadními dveřmi a nakládkou palety.",
-  "notesEn": "Footer animation: an operated pallet truck, a cargo forklift carrying a pallet, and an occasional reversing truck scene with open rear doors and pallet loading."
+  "versionCode": 47,
+  "versionName": "1.42",
+  "apkUrl": "https://raw.githubusercontent.com/erzzoncz-beep/DHL_Pracant/main/DHL_Pracant_v1_42_vehicles.apk",
+  "sha256": "A3C57B5783E63AA314757A58BE084DAA4B634F29FE79431BFC56E935D4AA2395",
+  "notesCs": "Spodní animace: troják se stojící obsluhou, kargo s viditelným řidičem a paletou a občasné zacouvání nákladního auta s otevřenými dveřmi a nakládkou palety.",
+  "notesEn": "Footer animation: a pallet truck with a standing operator, cargo forklift with visible driver and pallet, and occasional reversing truck with open doors and pallet loading."
 }
