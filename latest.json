@@ -1,8 +1,8 @@
 {
-  "versionCode": 47,
-  "versionName": "1.42",
-  "apkUrl": "https://raw.githubusercontent.com/erzzoncz-beep/DHL_Pracant/main/DHL_Pracant_v1_42_vehicles.apk",
-  "sha256": "A3C57B5783E63AA314757A58BE084DAA4B634F29FE79431BFC56E935D4AA2395",
-  "notesCs": "Spodní animace: troják se stojící obsluhou, kargo s viditelným řidičem a paletou a občasné zacouvání nákladního auta s otevřenými dveřmi a nakládkou palety.",
-  "notesEn": "Footer animation: a pallet truck with a standing operator, cargo forklift with visible driver and pallet, and occasional reversing truck with open doors and pallet loading."
+  "versionCode": 48,
+  "versionName": "1.43",
+  "apkUrl": "https://raw.githubusercontent.com/erzzoncz-beep/DHL_Pracant/main/DHL_Pracant_v1_43_warehouse_scenes.apk",
+  "sha256": "ED8D60D3EAA1B782CD7395251C43A33FA0B30CD7DA3E1702BBB5A4C302B5317D",
+  "notesCs": "Plynulejší náhodné skladové scény: tahač s vozíky, troják, kargo manipulující s paletou, nakládka do návěsu a předání balíku dodávce DHL Express.",
+  "notesEn": "Smoother randomized warehouse scenes: a tugger train, pallet truck, cargo forklift handling pallets, trailer loading, and a parcel handoff to a DHL Express van."
 }
