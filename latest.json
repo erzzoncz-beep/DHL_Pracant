@@ -1,8 +1,8 @@
 {
-  "versionCode": 45,
-  "versionName": "1.40",
-  "apkUrl": "https://raw.githubusercontent.com/erzzoncz-beep/DHL_Pracant/main/DHL_Pracant_v1_40_fixed.apk",
-  "sha256": "2C758BC7D2A4C905204CA3DF8187C96B74A821C624A580317B282F2176EFE355",
-  "notesCs": "Úprava QR náhledu: název aktuálního kódu zůstává viditelný pod horním panelem i při listování. Přebytečné bílé okraje se oříznou se zachováním bezpečného okraje kolem QR. Platí také pro verifikační kódy.",
-  "notesEn": "QR preview update: the current code name stays visible below the top bar while browsing. Excess white margins are cropped while preserving a safe quiet zone around each QR code. Also applied to verification codes."
+  "versionCode": 46,
+  "versionName": "1.41",
+  "apkUrl": "https://raw.githubusercontent.com/erzzoncz-beep/DHL_Pracant/main/DHL_Pracant_v1_41_vehicle.apk",
+  "sha256": "20898CF6C9D0B6278BFD160964D34F6A64763C3D9073F8312482462BD9E55EEC",
+  "notesCs": "Spodní animace: troják s obsluhou, kargo převážející paletu a občasná scéna zacouvání nákladního auta s otevřenými zadními dveřmi a nakládkou palety.",
+  "notesEn": "Footer animation: an operated pallet truck, a cargo forklift carrying a pallet, and an occasional reversing truck scene with open rear doors and pallet loading."
 }
