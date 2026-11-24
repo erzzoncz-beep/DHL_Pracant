@@ -1,8 +1,8 @@
 {
-  "versionCode": 49,
-  "versionName": "1.44",
-  "apkUrl": "https://raw.githubusercontent.com/erzzoncz-beep/DHL_Pracant/main/DHL_Pracant_v1_44_ideabox.apk",
-  "sha256": "5FD8710F9C239495FE2BBB04CADCA040F9A10B8392299145BD5323D032445D6D",
-  "notesCs": "Odstraněny spodní animace pracovníků a techniky. Nový IdeaBox pro zaslání návrhů a zachování zvoleného období produktivity.",
-  "notesEn": "Removed the bottom worker and vehicle animations. Added an IdeaBox for suggestions and persistence of the selected productivity date range."
+  "versionCode": 50,
+  "versionName": "1.45",
+  "apkUrl": "https://raw.githubusercontent.com/erzzoncz-beep/DHL_Pracant/main/DHL_Pracant_v1_45_ideabox_menu.apk",
+  "sha256": "456D9C592034723B9229F9C276A5D1D235AA076766ECE424BCDB577B11AF111D",
+  "notesCs": "IDEABOX je nyní samostatné tlačítko na hlavní obrazovce; formulář se otevře až po klepnutí. Odesílání návrhů a zachování období produktivity zůstávají.",
+  "notesEn": "IDEABOX is now a separate button on the home screen; the form opens after tapping it. Suggestion submission and productivity period persistence remain."
 }
