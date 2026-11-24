@@ -1,8 +1,8 @@
 {
-  "versionCode": 48,
-  "versionName": "1.43",
-  "apkUrl": "https://raw.githubusercontent.com/erzzoncz-beep/DHL_Pracant/main/DHL_Pracant_v1_43_warehouse_scenes.apk",
-  "sha256": "ED8D60D3EAA1B782CD7395251C43A33FA0B30CD7DA3E1702BBB5A4C302B5317D",
-  "notesCs": "Plynulejší náhodné skladové scény: tahač s vozíky, troják, kargo manipulující s paletou, nakládka do návěsu a předání balíku dodávce DHL Express.",
-  "notesEn": "Smoother randomized warehouse scenes: a tugger train, pallet truck, cargo forklift handling pallets, trailer loading, and a parcel handoff to a DHL Express van."
+  "versionCode": 49,
+  "versionName": "1.44",
+  "apkUrl": "https://raw.githubusercontent.com/erzzoncz-beep/DHL_Pracant/main/DHL_Pracant_v1_44_ideabox.apk",
+  "sha256": "5FD8710F9C239495FE2BBB04CADCA040F9A10B8392299145BD5323D032445D6D",
+  "notesCs": "Odstraněny spodní animace pracovníků a techniky. Nový IdeaBox pro zaslání návrhů a zachování zvoleného období produktivity.",
+  "notesEn": "Removed the bottom worker and vehicle animations. Added an IdeaBox for suggestions and persistence of the selected productivity date range."
 }
